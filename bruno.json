@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "ScheduleeAPI",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
